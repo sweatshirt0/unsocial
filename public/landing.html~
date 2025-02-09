@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facebook - Log In or Sign Up</title>
+    <link rel="stylesheet" type="text/css" href="/styles">
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">Unsocial Network</div>
+      <div class="sub-text">Connect with friends and the world around you on Unsocial.</div>
+      <div class="login-box">
+        <input type="text" placeholder="Email or phone number">
+        <input type="password" placeholder="Password">
+        <button class="login-btn">Log In</button>
+        <p><a href="#">Forgot password?</a></p>
+        <hr>
+        <button class="login-btn signup-btn">Create New Account</button>
+      </div>
+    </div>
+  </body>
+</html>
